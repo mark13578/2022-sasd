@@ -24,6 +24,7 @@
 ```python
 s = "Python syntax highlighting"
 print(s)
+```
 
 # 個人簡歷
 | 項目        | 比賽           | 得名  |
