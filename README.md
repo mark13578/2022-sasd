@@ -11,3 +11,16 @@
 ##### 電話：0972-613328
 ##### 信箱：C109118110@nkust.edu.tw
 ##### 傳檔服務：https://nkust.cc
+
+
+# 工作清單
+- [ ] todo list
+- [X] 已完成
+- [ ] 未完成
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+# Python 實作
+s = "Python syntax highlighting"
+print(s)
+
