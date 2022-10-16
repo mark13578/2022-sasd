@@ -5,7 +5,7 @@ gantt
     title 利他行動計畫
     
     section 任務
-    尋找願意配合的學校:a1,14d
+    尋找願意配合的學校:a1, 2022-10-17,14d
     任務分配:a2, after a1,7d
     安排家長日:a3, after a2,7d
     辦講座:a4, after a3,14d
