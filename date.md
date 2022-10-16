@@ -1,8 +1,8 @@
 
-## 甘特圖:
+## 利他行動計畫:
 ```mermaid
 gantt
-    title 程式開發
+    title 利他行動計畫
     
     section 任務
     尋找願意配合的學校:a1, 2022-10-17,14d
